@@ -49,7 +49,7 @@ int main(void) {
 						break;
 					}
 				}
-			} // ½Ã°è¹æÇâ
+			} // Â½ÃƒÂ°Ã¨Â¹Ã¦Ã‡Ã¢
 			else {
 				for (int t = 0; t < 4; t++) {
 					int tem = one[t][2];
