@@ -59,7 +59,7 @@ int main(void) {
 	}
 	sort(ind.begin(), ind.end());
 	do {
-		// Ãâ·Â
+		// ÃƒÃ¢Â·Ã‚
 		for (int i = 0; i < ind.size(); i++) {
 			if (ind[i] == 1) {
 				dis(house, distance, chick[combi[i]].first, chick[combi[i]].second, n);
