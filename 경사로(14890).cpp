@@ -3,7 +3,7 @@
 
 using namespace std;
 /*
-Á¤´ä
+ÃÂ¤Â´Ã¤
 */
 
 bool ch_road(vector<int> arr, int l) {
